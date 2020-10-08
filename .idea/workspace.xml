@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,30 +214,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="92" y="92" width="1182" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.768@0.0.1366.768" timestamp="1602176271443" />
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1602176467310">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1602178749948">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602176467310" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602178749948" />
     <state x="531" y="274" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602172934943">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="274" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602172934943" />
-    <state width="667" height="189" key="GridCell.Tab.0.bottom" timestamp="1602178020782">
+    <state width="667" height="189" key="GridCell.Tab.0.bottom" timestamp="1602178590038">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="667" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602178020782" />
-    <state width="667" height="189" key="GridCell.Tab.0.center" timestamp="1602178020781">
+    <state width="667" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602178590038" />
+    <state width="667" height="189" key="GridCell.Tab.0.center" timestamp="1602178590037">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="667" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602178020781" />
-    <state width="667" height="189" key="GridCell.Tab.0.left" timestamp="1602178020781">
+    <state width="667" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602178590037" />
+    <state width="667" height="189" key="GridCell.Tab.0.left" timestamp="1602178590037">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="667" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602178020781" />
-    <state width="667" height="189" key="GridCell.Tab.0.right" timestamp="1602178020781">
+    <state width="667" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602178590037" />
+    <state width="667" height="189" key="GridCell.Tab.0.right" timestamp="1602178590037">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="667" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602178020781" />
+    <state width="667" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602178590037" />
     <state x="87" y="100" width="527" height="568" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602177957370">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
